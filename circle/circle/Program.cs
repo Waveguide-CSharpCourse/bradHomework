@@ -8,7 +8,7 @@ namespace circle
 {
     class Program
     {
-        //test
+        //test2
         static decimal PI = 3.141592654m;
         static void Main(string[] args)
         {
